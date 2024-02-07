@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227386123616",
+    "project_id": "pad-vending-with-flutter-app",
+    "storage_bucket": "pad-vending-with-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227386123616:android:c534cfc8f0cec8c4092a05",
+        "android_client_info": {
+          "package_name": "com.example.vending_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2x7UsU2utFdOOFG7zQJm1JduPeprhaq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227386123616:android:1c4614560c0ea91c092a05",
+        "android_client_info": {
+          "package_name": "com.example.vending_mach_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2x7UsU2utFdOOFG7zQJm1JduPeprhaq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
